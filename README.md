@@ -16,3 +16,6 @@ kotlinc Lablll.kt -include-runtime -d Lablll.jar
 
 Para ejecutar el programa:
 java -jar Lablll.jar
+
+
+Tengo un codigo adicional que muestra la comparacion pero como en el menu no especifico que tenia que aplicarse no lo hice, si gusta se comunica conmigo y se lo muestro 
